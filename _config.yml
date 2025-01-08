@@ -3,7 +3,7 @@ description: Welcome to Orchid Consulting
 baseurl: /
 url: https://orchidconsultingltd.com/
 
-theme: hacked-jekyll
+remote_theme: hacked-jekyll
 
 exclude:
   - LICENSE
