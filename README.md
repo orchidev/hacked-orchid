@@ -1,3 +1,5 @@
+# Orchid Consulting
+
 # hacked-jekyll
 
 Hacked Jekyll is a responsive, minimalistic Jekyll theme for a tiny personal website. It consists of a homepage and a 404 page. The homepage lists information about the user in a format that resembles JSON, giving the website a "hacked" appearance. As in JSON, elements can be strings, arrays, or hashes. One of the string elements, typically the user's description, can use [typed.js](https://mattboldt.com/demos/typed-js/) to cycle through multiple lines of text.
