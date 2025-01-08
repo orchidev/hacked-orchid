@@ -1,0 +1,18 @@
+title: Orchid Consulting Ltd
+description: Welcome to Orchid Consulting
+baseurl: /
+url: https://orchidconsultingltd.com/
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
